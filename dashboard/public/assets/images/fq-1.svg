@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.963" height="18.854" viewBox="0 0 19.963 18.854">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_34386" data-name="Path 34386" d="M19.418-19a1.109,1.109,0,0,1,1.109,1.109v9.982A1.109,1.109,0,0,1,19.418-6.8H6.109A1.109,1.109,0,0,1,5-7.909v-9.982A1.109,1.109,0,0,1,6.109-19ZM11.1-13.455H7.773a.555.555,0,0,0-.555.555.555.555,0,0,0,.555.555H11.1a.555.555,0,0,0,.555-.555.555.555,0,0,0-.555-.555Zm3.327-2.218H7.773a.555.555,0,0,0-.555.555.555.555,0,0,0,.555.555h6.654a.555.555,0,0,0,.555-.555.555.555,0,0,0-.555-.555Z" transform="translate(-5 19)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_34385" data-name="Path 34385" d="M-35,344.284H380.9V-767H-35Z" transform="translate(35 767)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_34389" data-name="Path 34389" d="M3.879-14.417l9.1,6.574h0l9.1-6.574a.555.555,0,0,1,.774.125.555.555,0,0,1,.1.325V-2.852A2.218,2.218,0,0,1,20.745-.634H5.218A2.218,2.218,0,0,1,3-2.852V-13.968a.555.555,0,0,1,.555-.555A.555.555,0,0,1,3.879-14.417Z" transform="translate(-3 14.522)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_27068" data-name="Group 27068" transform="translate(-3 19)">
+    <g id="Group_27065" data-name="Group 27065" transform="translate(5.218 -19)" clip-path="url(#clip-path)">
+      <g id="Group_27064" data-name="Group 27064" transform="translate(-44.363 -829.581)" clip-path="url(#clip-path-2)">
+        <path id="Path_34384" data-name="Path 34384" d="M0-24H26.618V-.71H0Z" transform="translate(38.817 848.036)" fill="#2bbe76"/>
+      </g>
+    </g>
+    <g id="Group_27067" data-name="Group 27067" transform="translate(3 -14.034)" clip-path="url(#clip-path-3)">
+      <g id="Group_27066" data-name="Group 27066" transform="translate(-42.144 -834.547)" clip-path="url(#clip-path-2)">
+        <path id="Path_34387" data-name="Path 34387" d="M-2-19.522H29.054V5.456H-2Z" transform="translate(38.599 848.524)" fill="#222635"/>
+      </g>
+    </g>
+  </g>
+</svg>

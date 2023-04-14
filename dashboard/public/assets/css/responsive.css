@@ -1,0 +1,266 @@
+@media(max-width:1600px)
+{
+	.login-from .form-group {
+    margin-bottom: 14px;
+}
+.chat__wrapper {
+    max-height: 450px;
+}
+.login-from .form-group label {
+    margin-bottom: 10px;
+}
+
+.login-right.welcome-screen img.location-ic {
+    top: 14px;
+}
+.login-right-inner h3 {
+    margin-bottom: 40px;
+}
+div#cht-pop {
+    min-height: 600px;
+}
+.profile-info .login-from .col-md-6 .form-group {
+    margin-bottom: 9px;
+    margin-top: 6px;
+}
+.login-sktc img {
+    width: 87%;
+}
+.login-logo {
+    margin-bottom: 70px;
+}
+.login-from .form-group input {
+    height: 47px;
+}
+.login-from .forget-pass input {
+    height: 18px !IMPORTANT;
+}
+}
+@media (max-width:1300px)
+{
+	.login-page {
+    height: 100%;
+}
+.login-right {
+    height: 100%;
+    padding: 50px 0;
+}
+}
+@media (max-width:1200px)
+{
+	.login-right-inner h3 {
+    margin-bottom: 40px;
+    font-size: 25px;
+}
+.chat__wrapper {
+    max-height: 320px;
+}
+div#cht-pop {
+    min-height: 500px;
+}
+.session-btn {
+    margin-bottom: 10px;
+}
+.session-timer .session-timer-inner {
+    max-width: 320px;
+    padding: 25px 14px 10px;
+}
+.session-timer .session-timer-inner h4 {
+    font-size: 16px;
+    line-height: 23px;
+}
+.session-timer .session-timer-inner p {
+    margin-bottom: 18px;
+}
+.audio-cam img {
+    max-width: 150px;
+}
+.login-logo img {
+    max-width: 200px;
+}
+.login-logo {
+    margin-bottom: 50px;
+}
+.login-from {
+    padding-top: 22px;
+}
+.other-logins a {
+    padding: 14px 11px;
+    border-radius: 4px;
+    margin-left: 8px;
+    font-size: 12px;
+}
+.other-logins {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span.or-brd {
+    margin: 30px auto 0;
+}
+.login-right {
+    padding: 30px 16px;
+}
+.cm-btn {
+    height: 45px;
+}
+.login-page {
+    height: auto;
+}
+}
+@media (max-width:991px)
+{
+	.login-logo img {
+    max-width: 150px;
+}
+.session-timer .session-timer-inner h4 br {
+    display: none;
+}
+.rise-frm.rise-ratting {
+    margin-top: 15px;
+}
+.session-btn a {
+    padding: 11px 7px;
+    font-size: 15px;
+}
+.rise-frm.rise-ratting h5 {
+    font-size: 14px;
+    margin-top: 7px;
+}
+.login-right.profile-info .login-from .col-md-6 {
+    width: 100%;
+}
+.login-from .form-group select {
+    height: 47px;
+}
+.session-page {
+    background-position: center;
+}
+.login-right-inner h3 {
+    margin-bottom: 20px;
+}
+.other-logins {
+    flex-direction: column;
+}
+.other-logins a {
+    width: 100%;
+    text-align: center;
+    margin: 0 0 10px;
+}
+span.or-brd {
+    margin: 10px auto 0;
+}
+a.al-linked {
+    font-size: 15px;
+}
+.login-from .form-group img {
+    bottom: 14px;
+}
+.login-right.welcome-screen p {
+    margin: 0 auto 18px;
+}
+.login-right.welcome-screen h3 {
+    margin-top: 22px;
+    margin-bottom: 3px;
+}
+.login-right.welcome-screen img {
+    max-width: 60px;
+}
+}
+@media (max-width:767px)
+{
+	.login-page {
+    flex-direction: column;
+}
+div#cht-pop {
+    width: 92%;
+	padding:13px;
+}
+.session-timer .session-timer-inner {
+    max-height: 390px;
+    overflow: auto;
+}
+.chat__form input {
+    padding: 12px 12px 17px;
+}
+form#chat__form button {
+    top: 31px;
+}
+.chat__message p {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 10px;
+}
+.login-right.verification-code h3 {
+    margin-bottom: 11px;
+}
+.login-right.verification-code p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.login-right.verification-code .login-from .form-group.verify-code input {
+    width: 62px;
+    height: 61px;
+    font-size: 22px;
+}
+.audio-functions ul {
+    max-width: 320px;
+    padding: 14px 11px;
+}
+.session-timer .session-timer-inner h3 {
+    font-size: 17px;
+    line-height: 22px;
+    margin-bottom: 16px;
+}
+.session-timer-inner img {
+    margin-bottom: 9px;
+    max-width: 40px;
+}
+.profile-info .login-from .col-md-6 .form-group {
+    margin-bottom: 14px;
+    margin-top: 0;
+}
+.rise-frm.rise-ratting {
+    padding: 7px 15px;
+}
+.audio-cam {
+    right: 15px;
+    top: 15px;
+}
+.rise-frm textarea {
+    height: 62px;
+}
+.Extend-tim {
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+.session-page-inner p {
+    font-size: 20px;
+    line-height: 29px;
+    margin-top: 33px;
+}
+span.success-check {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 13px;
+}
+.session-timer-inner span.success-check img {
+    max-width: 30px;
+}
+.audio-cam img {
+    max-width: 110px;
+}
+.login-left {
+    width: 100%;
+    order: 2;
+}
+.login-right {
+    padding: 20px 16px;
+    width: 100%;
+    margin-bottom: 23px;
+}
+.login-sktc img {
+    width: 91%;
+    margin-bottom: 20px;
+}
+}
